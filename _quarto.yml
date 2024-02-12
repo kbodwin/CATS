@@ -4,6 +4,7 @@ project:
 
 website:
   title: "CATS"
+  site-url: "http://kbodwin.github.io/CATS"
   navbar:
     right:
       - about.qmd
