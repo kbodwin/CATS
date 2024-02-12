@@ -1,0 +1,15 @@
+---
+title: "Post Template"
+author: "YOU"
+date: "2100-10-02"
+categories: [news, code, analysis]
+image: "graph.jpg"
+draft: true
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
+
