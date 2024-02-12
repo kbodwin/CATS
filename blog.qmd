@@ -1,0 +1,19 @@
+---
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: images/cat_paws_2.png
+---
+
+# Series
+
+##### [2024-02-01-visualization](viz-1-index.html)
+
+In this seminar, we discuss ideas for teaching good data visualization, including grammar of graphics, Gestalt principles and preattentive attributes, and elemental groupings.

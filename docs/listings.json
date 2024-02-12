@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2024-02-01-visualization/viz-1-index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2024-02-01-visualization/viz-1-index.html"
+    ]
+  },
+  {
+    "listing": "/posts/YYYY-MM-DD-example/series-index-example.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/2024-02-01-visualization/viz-1-index.html",
+    "items": []
+  }
+]

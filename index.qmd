@@ -1,0 +1,13 @@
+---
+title: "CATS"
+description: "The Cal Poly Statistics Department holds monthly faculty seminar discussions known as <b>Conversations About Teaching Statistics (CATS)</b> This blog collects the seminar presentations for everyone to enjoy."
+listing:
+  contents: posts/**/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: images/cat_paws_2.png
+---

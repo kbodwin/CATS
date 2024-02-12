@@ -1,0 +1,8 @@
+---
+title: "About CATS"
+image: images/cats.jpg
+about:
+  template: jolla
+---
+
+**Conversations About Teaching Statistics** is a casual monthly seminar discussion held by the Cal Poly Statistics Department. In this blog, we convert our short presentations and ideas into bite-sized posts to share with you!

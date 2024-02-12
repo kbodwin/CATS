@@ -1,0 +1,15 @@
+---
+title: "Teaching Data Visualization"
+date: "Feb 1, 2024"
+listing:
+  contents: posts/2024-02-01-visualization/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, author, description]
+page-layout: full
+title-block-banner: viz_plan.png
+image: viz_plan.png
+---

@@ -1,0 +1,14 @@
+---
+title: "Topic"
+listing:
+  contents: posts/YYYY-MM-DD-example/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, author, description]
+page-layout: full
+title-block-banner: false
+draft: true
+---
